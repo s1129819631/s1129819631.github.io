@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>牛万飞的Hexo</title>
+  
+  <subtitle>个人博客</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-05-07T14:40:39.722Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>大牛牛</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>my new Post</title>
+    <link href="http://yoursite.com/2019/05/07/my-new-Post/"/>
+    <id>http://yoursite.com/2019/05/07/my-new-Post/</id>
+    <published>2019-05-07T14:10:01.000Z</published>
+    <updated>2019-05-07T14:40:39.722Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>牛万飞的Hexo</title>
+    <link href="http://yoursite.com/2019/05/07/hello-world/"/>
+    <id>http://yoursite.com/2019/05/07/hello-world/</id>
+    <published>2019-05-07T11:14:11.870Z</published>
+    <updated>2019-05-07T14:40:59.842Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
