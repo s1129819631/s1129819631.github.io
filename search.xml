@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[my new Post]]></title>
+    <url>%2F2019%2F05%2F07%2Fmy-new-Post%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[牛万飞的Hexo]]></title>
+    <url>%2F2019%2F05%2F07%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server123$ hexo server$ hexo s More info: Server Generate static files123$ hexo generate$ hexo g More info: Generating Deploy to remote sites123$ hexo deploy$ hexo d More info: Deployment]]></content>
+  </entry>
+</search>
